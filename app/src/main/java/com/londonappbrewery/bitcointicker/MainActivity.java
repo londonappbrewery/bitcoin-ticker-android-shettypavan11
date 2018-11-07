@@ -80,8 +80,6 @@ public class MainActivity extends AppCompatActivity {
                 } catch (JSONException e) {
                     e.printStackTrace();
                 }
-                //WeatherDataModel weatherData = WeatherDataModel.fromJson(response);
-                //updateUI(weatherData);
             }
 
             @Override
